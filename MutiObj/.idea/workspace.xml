@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b4fc2aa-6662-4c39-b1a7-471eb3e51e1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a139ez4UvspWy4v2fw7NL6himw" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Client_Server/UpLoad_DownLoad2" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Annotation.NewReflectionByAnnotation" />
+      <recent name="MutiShape" />
+      <recent name="Reflection.Reflect1" />
+      <recent name="Junit.Test" />
+      <recent name="Stream" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaClass\MutiObj\src\Client_Server\UpLoad_DownLoad2" />
+      <recent name="D:\JavaClass\MutiObj\src\FunctionalProgramming\RunnableInterfaceLambda" />
+      <recent name="D:\JavaClass\MutiObj\src\Thread\Security" />
+      <recent name="D:\JavaClass\MutiObj\src\Thread\Security\SynchronizedMethod" />
+      <recent name="D:\JavaClass\MutiObj\src\Thread\Security\Lock" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Annotation.MyAnnotation" />
+      <recent name="MethodQuote.ByObjectNameUsingMemberMethod" />
+      <recent name="IO.Serialize.CollectionSerialization" />
+      <recent name="IO.Serialize.ObjectInputStream" />
+      <recent name="IO.Buffered.EfficiencyTest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaClass\MutiObj\src" />
+      <recent name="D:\JavaClass\MutiObj\src\Reflection" />
+      <recent name="D:\JavaClass\MutiObj" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestCheck">
+    <configuration name="File_Check" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.CheckFunctionMethod.File_Check" />
+      <module name="JavaBaseMent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="File.CheckFunctionMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reflection.Reflect3.ReflectDemo3" />
+      <module name="JavaBaseMent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reflection.Reflect3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reflection.Reflect4.ReflectDemo4" />
+      <module name="JavaBaseMent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reflection.Reflect4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reflection.ReflectionExample.ReflectTest" />
+      <module name="JavaBaseMent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reflection.ReflectionExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectTestByAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Annotation.NewReflectionByAnnotation.ReflectTestByAnnotation" />
+      <module name="JavaBaseMent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Annotation.NewReflectionByAnnotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Annotation.AnnotationTest.TestCheck" />
+      <module name="JavaBaseMent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Annotation.AnnotationTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="JDBC" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="JDBC" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestCheck" />
+        <item itemvalue="Application.ReflectTestByAnnotation" />
+        <item itemvalue="Application.ReflectTest" />
+        <item itemvalue="Application.ReflectDemo4" />
+        <item itemvalue="Application.ReflectDemo3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b4fc2aa-6662-4c39-b1a7-471eb3e51e1b" name="Default Changelist" comment="" />
+      <created>1585889123320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585889123320</updated>
+      <workItem from="1585889126282" duration="7443000" />
+      <workItem from="1585907252929" duration="135000" />
+      <workItem from="1585909132349" duration="4403000" />
+      <workItem from="1585969537711" duration="6172000" />
+      <workItem from="1585980831332" duration="15081000" />
+      <workItem from="1586015426659" duration="551000" />
+      <workItem from="1586239836471" duration="10646000" />
+      <workItem from="1586573314713" duration="324000" />
+      <workItem from="1586573883905" duration="126000" />
+      <workItem from="1586574052211" duration="177000" />
+      <workItem from="1586574492212" duration="187000" />
+      <workItem from="1586574698984" duration="3828000" />
+      <workItem from="1586578646227" duration="135000" />
+      <workItem from="1586578810993" duration="127000" />
+      <workItem from="1586579159445" duration="41000" />
+      <workItem from="1586579471315" duration="2897000" />
+      <workItem from="1586583446682" duration="6282000" />
+      <workItem from="1586692676521" duration="306000" />
+      <workItem from="1586693232612" duration="1055000" />
+      <workItem from="1586826733248" duration="20287000" />
+      <workItem from="1587089099561" duration="3970000" />
+      <workItem from="1587093407911" duration="1965000" />
+      <workItem from="1587096668364" duration="18184000" />
+      <workItem from="1587177470073" duration="4380000" />
+      <workItem from="1587204593472" duration="2709000" />
+      <workItem from="1587262658084" duration="26023000" />
+      <workItem from="1587537046018" duration="9681000" />
+      <workItem from="1587692257669" duration="367000" />
+      <workItem from="1587692687541" duration="790000" />
+      <workItem from="1587693531555" duration="356000" />
+      <workItem from="1587694039957" duration="404000" />
+      <workItem from="1587694626247" duration="302000" />
+      <workItem from="1587695031632" duration="307000" />
+      <workItem from="1587695394847" duration="612000" />
+      <workItem from="1587696191211" duration="38000" />
+      <workItem from="1587697063575" duration="361000" />
+      <workItem from="1587697581240" duration="22225000" />
+      <workItem from="1587955918518" duration="246000" />
+      <workItem from="1588382706294" duration="14848000" />
+      <workItem from="1588470964294" duration="10281000" />
+      <workItem from="1588564663118" duration="15475000" />
+      <workItem from="1588640267308" duration="32000" />
+      <workItem from="1588640364417" duration="37000" />
+      <workItem from="1588640518116" duration="28446000" />
+      <workItem from="1588748726876" duration="6944000" />
+      <workItem from="1588824859525" duration="3137000" />
+      <workItem from="1588829094402" duration="7000" />
+      <workItem from="1588903783206" duration="16191000" />
+      <workItem from="1589072158104" duration="15025000" />
+      <workItem from="1589363406676" duration="88000" />
+      <workItem from="1589368114199" duration="12659000" />
+      <workItem from="1589416796528" duration="1428000" />
+      <workItem from="1589437456662" duration="14824000" />
+      <workItem from="1589510407311" duration="11261000" />
+      <workItem from="1589600524844" duration="2421000" />
+      <workItem from="1589602953389" duration="1215000" />
+      <workItem from="1589607753381" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Notifications" timestamp="1587177625653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1587177625653" />
+    <state x="275" y="25" key="#Project_Structure" timestamp="1585889268226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1585889268226" />
+    <state x="0" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587704255411">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587704255411" />
+    <state x="95" y="100" width="414" height="535" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589438559444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="95" y="100" width="414" height="535" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1589438559444" />
+    <state x="34" y="169" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589440651412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="34" y="169" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589440651412" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1589516592358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1588641308408" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589516592358" />
+    <state x="461" y="247" width="616" height="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589522128364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="231" width="463" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1588641321695" />
+    <state x="461" y="247" width="616" height="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1589522128364" />
+    <state x="522" y="259" width="518" height="208" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1589512098153">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="522" y="259" width="518" height="208" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1589512098153" />
+    <state x="93" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586248048665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="93" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1586248048665" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589450353884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589450353884" />
+    <state x="530" y="113" key="FileChooserDialogImpl" timestamp="1587295151662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="530" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587295151662" />
+    <state width="562" height="52" key="GridCell.Tab.0.bottom" timestamp="1589524373519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="564" height="164" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588644267244" />
+    <state width="562" height="52" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589524373519" />
+    <state width="562" height="52" key="GridCell.Tab.0.center" timestamp="1589524373519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="564" height="164" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588644267244" />
+    <state width="562" height="52" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589524373519" />
+    <state width="562" height="52" key="GridCell.Tab.0.left" timestamp="1589524373519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="564" height="164" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588644267244" />
+    <state width="562" height="52" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589524373519" />
+    <state width="562" height="52" key="GridCell.Tab.0.right" timestamp="1589524373519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="564" height="164" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588644267244" />
+    <state width="562" height="52" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589524373519" />
+    <state width="552" height="219" key="GridCell.Tab.1.bottom" timestamp="1589452520760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="564" height="199" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588642132718" />
+    <state width="552" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589452520760" />
+    <state width="552" height="219" key="GridCell.Tab.1.center" timestamp="1589452520760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="564" height="199" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588642132718" />
+    <state width="552" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589452520760" />
+    <state width="552" height="219" key="GridCell.Tab.1.left" timestamp="1589452520760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="564" height="199" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588642132718" />
+    <state width="552" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589452520760" />
+    <state width="552" height="219" key="GridCell.Tab.1.right" timestamp="1589452520760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="564" height="199" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588642132718" />
+    <state width="552" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589452520760" />
+    <state x="217" y="0" key="SettingsEditor" timestamp="1587295161879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="217" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587295161879" />
+    <state x="187" y="266" width="830" height="280" key="com.intellij.ide.util.TipDialog" timestamp="1589607768379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="248" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588640517820" />
+    <state x="187" y="266" width="830" height="280" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589607768379" />
+    <state x="2" y="260" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589438032599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="2" y="260" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1589438032599" />
+    <state x="151" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588825696687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="151" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1588825696687" />
+    <state x="413" y="135" key="extract.method.dialog" timestamp="1585989628688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="135" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1585989628688" />
+    <state x="25" y="65" width="582" height="536" key="new project wizard" timestamp="1589603112057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="25" y="65" width="582" height="536" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589603112057" />
+    <state x="392" y="204" width="718" height="309" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1587295160673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="204" width="718" height="309" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1587295160672" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1588477441041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588477441041" />
+    <state x="205" y="259" key="save.project.as.template.dialog" timestamp="1587694200536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="205" y="259" key="save.project.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1587694200536" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589511225785">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589511225785" />
+  </component>
+</project>

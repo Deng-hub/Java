@@ -1,0 +1,7 @@
+addxxx方法出异常了
+异常的名称：NullPointerException
+异常的原因null
+---------------------divxxx方法出异常了
+异常的名称：ArithmeticException
+异常的原因/ by zero
+---------------------本次一共出现2次异常

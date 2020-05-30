@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08d7e5ae-7194-4bed-9036-e3116bcfab31" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cAESpGnSu9a2ft2TnlWZrbciRv" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest.testDelete">
+    <configuration name="AccountServiceTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.itheima.day01_eesy_07practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.cast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.cast" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.cast.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.itheima.day01_eesy_07practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.cast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.cast" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.cast.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testFindOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.itheima.day01_eesy_07practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.cast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.cast" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.cast.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testFindOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.itheima.day01_eesy_07practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.cast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.cast" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.cast.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.itheima.day01_eesy_07practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.cast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.cast" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.cast.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest.testDelete" />
+        <item itemvalue="JUnit.AccountServiceTest.testUpdate" />
+        <item itemvalue="JUnit.AccountServiceTest.testSave" />
+        <item itemvalue="JUnit.AccountServiceTest.testFindOne" />
+        <item itemvalue="JUnit.AccountServiceTest.testFindAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08d7e5ae-7194-4bed-9036-e3116bcfab31" name="Default Changelist" comment="" />
+      <created>1589962999497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589962999497</updated>
+      <workItem from="1589963001311" duration="5676000" />
+      <workItem from="1590036371635" duration="352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1589964693003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="128" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589964693003" />
+    <state width="680" height="2" key="GridCell.Tab.0.bottom" timestamp="1589968725913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="680" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589968725913" />
+    <state width="680" height="2" key="GridCell.Tab.0.center" timestamp="1589968725912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="680" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589968725912" />
+    <state width="680" height="2" key="GridCell.Tab.0.left" timestamp="1589968725912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="680" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589968725912" />
+    <state width="680" height="2" key="GridCell.Tab.0.right" timestamp="1589968725913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="680" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589968725913" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1589966981233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589966981233" />
+    <state x="385" y="233" key="com.intellij.ide.util.TipDialog" timestamp="1590036371578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="385" y="233" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590036371578" />
+  </component>
+</project>

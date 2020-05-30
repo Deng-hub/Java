@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b481e03a-7910-4a53-a87f-0651cad2d5c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cCzExs73QB9J1kymAiEzBdvTDN" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../com.itheima.day01_11DynamicAgent" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\com.itheima.day01_10aop\src\test\java" />
+      <recent name="D:\com.itheima.day01_10aop\src\main\resources" />
+      <recent name="D:\com.itheima.day01_10aop\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest">
+    <configuration name="AccountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day01_10aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.cast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.cast" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.cast.AccountServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day01_10aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.cast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.cast" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.cast.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest" />
+        <item itemvalue="JUnit.AccountServiceTest.testTransfer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b481e03a-7910-4a53-a87f-0651cad2d5c2" name="Default Changelist" comment="" />
+      <created>1590047256009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590047256009</updated>
+      <workItem from="1590047259001" duration="4575000" />
+      <workItem from="1590128278528" duration="8592000" />
+      <workItem from="1590465452596" duration="6485000" />
+      <workItem from="1590553216219" duration="681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="153" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1590465848392">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="153" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590465848392" />
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1590469765258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590469765258" />
+    <state width="1150" height="59" key="GridCell.Tab.0.bottom" timestamp="1590557850847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1150" height="59" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590557850847" />
+    <state width="1150" height="59" key="GridCell.Tab.0.center" timestamp="1590557850847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1150" height="59" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590557850847" />
+    <state width="1150" height="59" key="GridCell.Tab.0.left" timestamp="1590557850847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1150" height="59" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590557850847" />
+    <state width="1150" height="59" key="GridCell.Tab.0.right" timestamp="1590557850847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1150" height="59" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590557850847" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1590049996521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590049996521" />
+    <state x="113" y="129" key="new project wizard" timestamp="1590136271027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="113" y="129" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590136271027" />
+    <state x="-96" y="166" key="run.anything.popup" timestamp="1590130147242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-96" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1590130147242" />
+    <state x="15" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590133823541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="15" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590133823541" />
+  </component>
+</project>

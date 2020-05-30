@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b992762-faae-4aaf-a30d-590842b6b988" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cFtfMvbdfKAaTK1y8U2hiX9Yf4" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\com.itheima.day01_11DynamicAgent\src\main\java\com\itheima\cglib" />
+      <recent name="D:\com.itheima.day01_11DynamicAgent\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.cglib.Client" />
+      <module name="com.itheima.day01_11DynamicAgent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.proxy.Client" />
+      <module name="com.itheima.day01_11DynamicAgent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b992762-faae-4aaf-a30d-590842b6b988" name="Default Changelist" comment="" />
+      <created>1590136271673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590136271673</updated>
+      <workItem from="1590136275803" duration="4848000" />
+      <workItem from="1590455100143" duration="9088000" />
+      <workItem from="1590469768454" duration="915000" />
+      <workItem from="1590553116511" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="26" key="#Project_Structure" timestamp="1590553133774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590553133774" />
+    <state x="487" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1590460146821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590460146821" />
+    <state width="624" height="121" key="GridCell.Tab.0.bottom" timestamp="1590465440185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="624" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590465440185" />
+    <state width="624" height="121" key="GridCell.Tab.0.center" timestamp="1590465440185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="624" height="121" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590465440185" />
+    <state width="624" height="121" key="GridCell.Tab.0.left" timestamp="1590465440185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="624" height="121" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590465440185" />
+    <state width="624" height="121" key="GridCell.Tab.0.right" timestamp="1590465440185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="624" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590465440185" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1590462585967">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590462585967" />
+    <state x="49" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1590553115403">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="49" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590553115403" />
+    <state x="0" y="62" key="new project wizard" timestamp="1590140991056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="62" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590140991056" />
+    <state x="29" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590138343016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="29" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590138343016" />
+  </component>
+</project>
